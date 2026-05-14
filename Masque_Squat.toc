@@ -1,4 +1,4 @@
-## Interface: 11503, 30403, 40400, 110002
+## Interface: 50504, 50503
 
 ## Title: Masque: Squat
 ## Notes: Squat skin for Masque.
@@ -10,7 +10,7 @@
 ## Notes-ruRU: Скин Squat для Masque.
 ## Notes-zhTW: Masque的Squat皮膚。
 
-## Version: @project-version@
+## Version: 1.12.1
 ## Author: dlecina
 ## Dependencies: Masque
 
